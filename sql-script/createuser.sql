@@ -1,0 +1,2 @@
+ CREATE USER 'krishna1'@'%' IDENTIFIED BY 'krishna';
+ GRANT ALL PRIVILEGES ON new1.* TO 'krishna1'@'%' WITH GRANT OPTION;
